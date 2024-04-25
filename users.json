@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Angelica",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"088996429778"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Abid Farhan",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"08814306220"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Firsty",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"08835987423"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"Valency",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"-"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Aurora",
+      "jenis_kelamin":"Perempuan",
+      "telpon":"none"
+    }
+  }
